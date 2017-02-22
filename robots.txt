@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /app/
+Disallow: /app/public/
+Disallow: /app/src/
+Disallow: /license/
+Disallow: /static/js/
