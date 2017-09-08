@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 let NavBar = require('./NavBar');
 const styles = {
@@ -23,8 +23,6 @@ let Contact = React.createClass({
                   Hi, Thankyou for trying to reach me!<br/><br/> You can find some methods to get in touch with me.<br/><br/>
                     LinkedIn - <a href="http://linkedin.com/in/arunkumarpalaniappan" target="_blank" style={styles.linkStyle}> arunkumarpalaniappan </a> <br/>
                     Email - <a href="mailto:contact@arunkumarpalaniappan.me" target="_blank" style={styles.linkStyle}> contact@arunkumarpalaniappan.me </a> <br/>
-                    Twitter - <a href="http://twitter.com/kumar_arp" target="_blank" style={styles.linkStyle}> kumar_arp </a> <br/>
-                    Facebook - <a href="http://fb.com/arun0304" target="_blank" style={styles.linkStyle}> arun0304 </a> <br/><br/>
                     See you soon!
 
               </div>

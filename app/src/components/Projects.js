@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 let NavBar = require('./NavBar');
 const styles = {
@@ -24,6 +24,8 @@ let Projects = React.createClass({
         <div style={styles.pageAlign} >
               <div><h3 style={styles.normalweight}>Projects</h3></div>
               <div style={styles.leftpageAlign}>
+              <h4 style={styles.normalweight}><b>win10batteryoptimizer</b> - <a href="https://pypi.python.org/pypi?:action=display&name=win10batteryoptimizer&version=0.1.1" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="https://github.com/arunkumarpalaniappan/win10batteryoptimizer" style={styles.linkStyle} target="_blank">Github</a></h4>
+                This is a python package to maintain good battery life in windows 10. This package provides api to alerts when battery reaches below 40 or more than 80 percent, which is the optimal battery working percentage.<br/><br/>
               <h4 style={styles.normalweight}><b>Portfolio</b> - <a href="http://arunkumarpalaniappan.me" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="https://github.com/arunkumarpalaniappan/arunkumarpalaniappan.github.io" style={styles.linkStyle} target="_blank">Github</a></h4>
                 This application is developed in React JS, This is the source code of the user portfolio.<br/><br/>
                 <h4 style={styles.normalweight}><b>mydoShare</b> - <a href="http://mydoshare.arunkumarpalaniappan.me" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="http://github.com/arunkumarpalaniappan/mydoshare" style={styles.linkStyle} target="_blank">Github</a></h4>

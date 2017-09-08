@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 let NavBar = require('./NavBar');
 const styles = {
@@ -24,7 +24,7 @@ let Experience = React.createClass({
         <div style={styles.pageAlign} >
               <div><h3 style={styles.normalweight}>Experience and Volunteering </h3></div>
               <div style={styles.leftpageAlign}>
-              <h4 style={styles.normalweight}><b>BI Developer</b> - Visual BI Solutions - June 2016 - Present</h4>
+              <h4 style={styles.normalweight}><b>Specialist BI Developer</b> - Visual BI Solutions - June 2016 - Present</h4>
               <h4 style={styles.normalweight}><b>BI Developer Project Intern </b> - Visual BI Solutions - July 2015 - May 2016</h4>
               <h4 style={styles.normalweight}><b>Codechef Campus Ambassador</b> - Microsoft - May 2014 - April 2016</h4>
               <h4 style={styles.normalweight}><b>Microsoft Student Partner</b> - Microsoft - May 2015 - April 2016</h4>
