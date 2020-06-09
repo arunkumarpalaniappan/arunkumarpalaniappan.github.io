@@ -47,7 +47,7 @@ let Home = React.createClass({
       <div>
         <div style={styles.viewContainer}>
             <div style={styles.infoContainer}>
-              <div style={styles.alignCenter}>Arunkumar Palaniappan / Software Development Engineer || <br/> <a href="https://github.com/arunkumarpalaniappan" style={styles.linkStyle} target="_blank">Github ↗</a> | <a href="https://linkedin.com/in/arunkumarpalaniappan" style={styles.linkStyle} target="_blank">LinkedIn ↗</a> | <a href="https://icpc.baylor.edu/ICPCID/T8EGW7IOQ4V4" style={styles.linkStyle} target="_blank">ICPC ↗</a><br/><a href="#/me" style={styles.linkStyle} >About</a> | <a href="#/pro" style={styles.linkStyle} >Projects</a> | <a href="https://practice.sh?ref=profile-landing" style={styles.linkStyle} >Blog</a>  </div>
+              <div style={styles.alignCenter}>Arunkumar Palaniappan / Software Development Engineer II <br/> <a href="https://github.com/arunkumarpalaniappan" style={styles.linkStyle} target="_blank">Github ↗</a> | <a href="https://linkedin.com/in/arunkumarpalaniappan" style={styles.linkStyle} target="_blank">LinkedIn ↗</a> | <a href="https://icpc.baylor.edu/ICPCID/T8EGW7IOQ4V4" style={styles.linkStyle} target="_blank">ICPC ↗</a><br/><a href="#/me" style={styles.linkStyle} >About</a> | <a href="#/pro" style={styles.linkStyle} >Projects</a> | <a href="https://practice.sh?ref=profile-landing" style={styles.linkStyle} >Blog</a>  </div>
             </div>
         </div>
       </div>
