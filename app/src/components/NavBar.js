@@ -47,7 +47,7 @@ let NavBar = React.createClass({
       <div>
         <div style={styles.viewContainer}>
             <div style={styles.infoContainer}>
-              <div style={styles.alignCenter}><a href="#/home" style={styles.linkStyle} >Home</a> | <a href="#/me" style={styles.linkStyle} >About</a> | <a href="#/pro" style={styles.linkStyle} >Projects</a> | <a href="#/exp" style={styles.linkStyle} >Experience / Cerifications / Education</a> | <a href="#/reach" style={styles.linkStyle} >Contact</a></div>
+              <div style={styles.alignCenter}><a href="#/home" style={styles.linkStyle} >Home</a> | <a href="#/me" style={styles.linkStyle} >About</a> | <a href="#/pro" style={styles.linkStyle} >Projects</a> | <a href="https://practice.sh?ref=profile-head" style={styles.linkStyle} >Blog</a></div>
             </div>
         </div>
       </div>

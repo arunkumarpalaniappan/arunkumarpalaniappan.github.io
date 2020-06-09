@@ -24,8 +24,23 @@ let Projects = React.createClass({
         <div style={styles.pageAlign} >
               <div><h3 style={styles.normalweight}>Projects</h3></div>
               <div style={styles.leftpageAlign}>
+
+              <h4 style={styles.normalweight}><b>Avouch</b> - <a href="https://www.npmjs.com/package/avouch" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="https://github.com/arunkumarpalaniappan/avouch" style={styles.linkStyle} target="_blank">Github</a></h4>
+              Complete Authentication server using Express. Supports Login, Register User, Update User, Forgot and Reset Password, Validate Token and Refresh Token  Out of the Box in Postgres SQL.<br/><br/>
+
+              <h4 style={styles.normalweight}><b>Logger Common</b> - <a href="https://www.npmjs.com/package/logger-common" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="https://github.com/arunkumarpalaniappan/logger-common" style={styles.linkStyle} target="_blank">Github</a></h4>
+              Out-of-the-box logger for All Node JS Applications. Internally uses Morgan and Winston. Can able to specify and cusomise logs using this package.<br/><br/>
+
+              <h4 style={styles.normalweight}><b>cp.js.org</b> - <a href="https://cp.js.org" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="https://github.com/nestedobjects/cp" style={styles.linkStyle} target="_blank">Github</a></h4>
+              Can create short links or qr-codes for the contents and do a scan with your device or share with others. Using Google URL Shortner API.<br/><br/>
+
+              <h4 style={styles.normalweight}><b>Live Weather</b> - <a href="https://github.com/arunkumarpalaniappan/weather" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="https://github.com/arunkumarpalaniappan/weather" style={styles.linkStyle} target="_blank">Github</a></h4>
+              React Application to view current weather info and forecast based on location. Built on top of Google Places, Google Geocode, open Weather Map API and React for dashborad.<br/><br/>
+
               <h4 style={styles.normalweight}><b>win10batteryoptimizer</b> - <a href="https://pypi.python.org/pypi?:action=display&name=win10batteryoptimizer&version=0.1.1" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="https://github.com/arunkumarpalaniappan/win10batteryoptimizer" style={styles.linkStyle} target="_blank">Github</a></h4>
                 This is a python package to maintain good battery life in windows 10. This package provides api to alerts when battery reaches below 40 or more than 80 percent, which is the optimal battery working percentage.<br/><br/>
+
+
               <h4 style={styles.normalweight}><b>Portfolio</b> - <a href="http://arunkumarpalaniappan.me" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="https://github.com/arunkumarpalaniappan/arunkumarpalaniappan.github.io" style={styles.linkStyle} target="_blank">Github</a></h4>
                 This application is developed in React JS, This is the source code of the user portfolio.<br/><br/>
                 <h4 style={styles.normalweight}><b>mydoShare</b> - <a href="http://mydoshare.arunkumarpalaniappan.me" style={styles.linkStyle} target="_blank"> Project Link</a> | <a href="http://github.com/arunkumarpalaniappan/mydoshare" style={styles.linkStyle} target="_blank">Github</a></h4>
